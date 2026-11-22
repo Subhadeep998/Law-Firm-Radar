@@ -8,9 +8,11 @@
 
 ## 🔭 Deals, mandates, expansion & strategy (last 30 days)
 
-<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated —.</sub>
+<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-22.</sub>
 
-_Feed populates on the next daily run._
+| Date | Headline | Source |
+|:--|:--|:--|
+| 2026-11-08 | [Gurgaon offices calling more than half of staff to office, violating 50% WFH rule, will be issued show-cau](https://news.google.com/rss/articles/CBMiugJBVV95cUxPMEZCc0U5NWtMUVBLM0RSZVJISV8tSkR6NFphU0l1MWFHbDVLY0ZfZkpNYjRKcUxxbGowY21MLUNFTTVXVFpxYllFZmliS245c3JLd1Y2cGE1SlJTSnZqZ0dtOHNMSlJpNXJySDdvUmdWdGJiWFJRZFhxbC00MHZGODhtdzNVT0VCQU9ZbHctZUhXTHI0QVV2RUFaOENBWTJYZjJQTFQwdkNjbTBmSkt3SnM3X0JBdEdrRlg0eWVtY2hXZE1sOE9mYThmbFBfei1mclNpbjNrSXJ5YVgzVWtDN2dqTFR3TW9sSXFPazJJZXRkWXdJZmFNTW5xMF9HTHkxdVFQTEZwb1RHWFB4RHZ3aW1GRWdvNi1aZGswd2FyQldMUGRKSWJ1UHVNTkNnYVJmYWYyc2ZZc0tRUdIBvwJBVV95cUxOSHg4XzdvUW9YclVNYzU3WmJ4dXVybkV4ZVhhSGljNmktYjVnZ2ZsWG96NFVmb1VLZWE3MXI1UnREeGgydE1BVEtJRFpyZjJHWk93N0tWbGZib2xHOGFXVUVNd0NvQjBmeEV3TGZUbEZSQUJEbm04SkxseWZ3YzVJa1BTNGxfbXlyMjJFMmowbGEwS1NQTXFVcXBIbEdra0FxMWJ4b2M2bTJNOXQtVFhfWVZfTmpCWkNrcVVJbDNoaUl0ek5CR0RmTmtYR1M5a2pHbkItR29sR28zNHA0UDh6YW1UbTRpeGU2Rk9wejBZTTQ5cThIcEJsbjZMQ2dNVC1uSWZyTm5FVWlXNElZeTFOMlE3b3ZUdnBzSF8tcC1GaENOSWQyU3ZKaU15Ri1BRG9qRU0xcmJzc1dNSnhydGlz?oc=5) | The Economic Times |
 
 ## 📰 Latest news (last 7 days)
 

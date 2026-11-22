@@ -39,46 +39,46 @@
 
 | Firm | Focus | Profile | Headlines this week |
 |:--|:--|:--|--:|
-| [**Kirkland & Ellis**](https://www.kirkland.com) | Corporate, private equity | [Open →](firms/kirkland-ellis.md) | — |
-| [**Latham & Watkins**](https://www.lw.com) | Corporate, litigation | [Open →](firms/latham-watkins.md) | — |
-| [**Skadden**](https://www.skadden.com) | M&A, securities | [Open →](firms/skadden.md) | — |
-| [**Cravath, Swaine & Moore**](https://www.cravath.com) | Corporate law, litigation | [Open →](firms/cravath-swaine-moore.md) | — |
-| [**Sullivan & Cromwell**](https://www.sullcrom.com) | Corporate, financial regulation | [Open →](firms/sullivan-cromwell.md) | — |
-| [**Gibson, Dunn & Crutcher**](https://www.gibsondunn.com) | Litigation, corporate law | [Open →](firms/gibson-dunn-crutcher.md) | — |
-| [**Sidley Austin**](https://www.sidley.com) | Healthcare, regulatory, corporate | [Open →](firms/sidley-austin.md) | — |
-| [**White & Case**](https://www.whitecase.com) | International transactions | [Open →](firms/white-case.md) | — |
-| [**Ropes & Gray**](https://www.ropesgray.com) | Life sciences, private equity | [Open →](firms/ropes-gray.md) | — |
-| [**Cooley**](https://www.cooley.com) | Technology, venture capital | [Open →](firms/cooley.md) | — |
+| [**Kirkland & Ellis**](https://www.kirkland.com) | Corporate, private equity | [Open →](firms/kirkland-ellis.md) | 10 |
+| [**Latham & Watkins**](https://www.lw.com) | Corporate, litigation | [Open →](firms/latham-watkins.md) | 10 |
+| [**Skadden**](https://www.skadden.com) | M&A, securities | [Open →](firms/skadden.md) | 10 |
+| [**Cravath, Swaine & Moore**](https://www.cravath.com) | Corporate law, litigation | [Open →](firms/cravath-swaine-moore.md) | 10 |
+| [**Sullivan & Cromwell**](https://www.sullcrom.com) | Corporate, financial regulation | [Open →](firms/sullivan-cromwell.md) | 10 |
+| [**Gibson, Dunn & Crutcher**](https://www.gibsondunn.com) | Litigation, corporate law | [Open →](firms/gibson-dunn-crutcher.md) | 10 |
+| [**Sidley Austin**](https://www.sidley.com) | Healthcare, regulatory, corporate | [Open →](firms/sidley-austin.md) | 8 |
+| [**White & Case**](https://www.whitecase.com) | International transactions | [Open →](firms/white-case.md) | 10 |
+| [**Ropes & Gray**](https://www.ropesgray.com) | Life sciences, private equity | [Open →](firms/ropes-gray.md) | 6 |
+| [**Cooley**](https://www.cooley.com) | Technology, venture capital | [Open →](firms/cooley.md) | 8 |
 
 ### 🇬🇧 UK · Law Firms
 
 | Firm | Focus | Profile | Headlines this week |
 |:--|:--|:--|--:|
-| [**Clifford Chance**](https://www.cliffordchance.com) | Global corporate law | [Open →](firms/clifford-chance.md) | — |
-| [**Linklaters**](https://www.linklaters.com) | Banking, corporate law | [Open →](firms/linklaters.md) | — |
-| [**Freshfields**](https://www.freshfields.com) | M&A, disputes | [Open →](firms/freshfields.md) | — |
-| [**A&O Shearman**](https://www.aoshearman.com) | Finance, corporate law | [Open →](firms/a-o-shearman.md) | — |
-| [**Slaughter and May**](https://www.slaughterandmay.com) | Corporate, competition law | [Open →](firms/slaughter-and-may.md) | — |
-| [**Ashurst**](https://www.ashurst.com) | Corporate, infrastructure | [Open →](firms/ashurst.md) | — |
-| [**CMS**](https://cms.law) | Commercial, technology law | [Open →](firms/cms.md) | — |
-| [**Simmons & Simmons**](https://www.simmons-simmons.com) | Life sciences, financial services | [Open →](firms/simmons-simmons.md) | — |
-| [**Bird & Bird**](https://www.twobirds.com) | IP, technology law | [Open →](firms/bird-bird.md) | — |
-| [**Pinsent Masons**](https://www.pinsentmasons.com) | Technology, infrastructure law | [Open →](firms/pinsent-masons.md) | — |
+| [**Clifford Chance**](https://www.cliffordchance.com) | Global corporate law | [Open →](firms/clifford-chance.md) | 10 |
+| [**Linklaters**](https://www.linklaters.com) | Banking, corporate law | [Open →](firms/linklaters.md) | 10 |
+| [**Freshfields**](https://www.freshfields.com) | M&A, disputes | [Open →](firms/freshfields.md) | 10 |
+| [**A&O Shearman**](https://www.aoshearman.com) | Finance, corporate law | [Open →](firms/a-o-shearman.md) | 10 |
+| [**Slaughter and May**](https://www.slaughterandmay.com) | Corporate, competition law | [Open →](firms/slaughter-and-may.md) | 9 |
+| [**Ashurst**](https://www.ashurst.com) | Corporate, infrastructure | [Open →](firms/ashurst.md) | 10 |
+| [**CMS**](https://cms.law) | Commercial, technology law | [Open →](firms/cms.md) | 1 |
+| [**Simmons & Simmons**](https://www.simmons-simmons.com) | Life sciences, financial services | [Open →](firms/simmons-simmons.md) | 10 |
+| [**Bird & Bird**](https://www.twobirds.com) | IP, technology law | [Open →](firms/bird-bird.md) | 6 |
+| [**Pinsent Masons**](https://www.pinsentmasons.com) | Technology, infrastructure law | [Open →](firms/pinsent-masons.md) | 10 |
 
 ### 🇮🇳 India · Law Firms
 
 | Firm | Focus | Profile | Headlines this week |
 |:--|:--|:--|--:|
-| [**Cyril Amarchand Mangaldas**](https://www.cyrilshroff.com) | Corporate, regulatory law | [Open →](firms/cyril-amarchand-mangaldas.md) | — |
-| [**Shardul Amarchand Mangaldas & Co.**](https://www.amsshardul.com) | Corporate, disputes | [Open →](firms/shardul-amarchand-mangaldas-co.md) | — |
-| [**AZB & Partners**](https://www.azbpartners.com) | M&A, competition, regulatory | [Open →](firms/azb-partners.md) | — |
-| [**Khaitan & Co**](https://www.khaitanco.com) | Corporate, commercial law | [Open →](firms/khaitan-co.md) | — |
-| [**Trilegal**](https://trilegal.com) | Corporate, technology law | [Open →](firms/trilegal.md) | — |
+| [**Cyril Amarchand Mangaldas**](https://www.cyrilshroff.com) | Corporate, regulatory law | [Open →](firms/cyril-amarchand-mangaldas.md) | 10 |
+| [**Shardul Amarchand Mangaldas & Co.**](https://www.amsshardul.com) | Corporate, disputes | [Open →](firms/shardul-amarchand-mangaldas-co.md) | 10 |
+| [**AZB & Partners**](https://www.azbpartners.com) | M&A, competition, regulatory | [Open →](firms/azb-partners.md) | 10 |
+| [**Khaitan & Co**](https://www.khaitanco.com) | Corporate, commercial law | [Open →](firms/khaitan-co.md) | 10 |
+| [**Trilegal**](https://trilegal.com) | Corporate, technology law | [Open →](firms/trilegal.md) | 10 |
 | [**JSA Advocates & Solicitors**](https://www.jsalaw.com) | Corporate, regulatory law | [Open →](firms/jsa-advocates-solicitors.md) | — |
-| [**Luthra and Luthra Law Offices India**](https://www.luthra.com) | Corporate, dispute resolution | [Open →](firms/luthra-and-luthra-law-offices-india.md) | — |
+| [**Luthra and Luthra Law Offices India**](https://www.luthra.com) | Corporate, dispute resolution | [Open →](firms/luthra-and-luthra-law-offices-india.md) | 5 |
 | [**IndusLaw**](https://induslaw.com) | Corporate, venture capital | [Open →](firms/induslaw.md) | — |
-| [**Anand and Anand**](https://www.anandandanand.com) | Intellectual property law | [Open →](firms/anand-and-anand.md) | — |
-| [**S&R Associates**](https://www.snrlaw.in) | M&A, capital markets | [Open →](firms/s-r-associates.md) | — |
+| [**Anand and Anand**](https://www.anandandanand.com) | Intellectual property law | [Open →](firms/anand-and-anand.md) | 10 |
+| [**S&R Associates**](https://www.snrlaw.in) | M&A, capital markets | [Open →](firms/s-r-associates.md) | 8 |
 
 ---
 
