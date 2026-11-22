@@ -1,0 +1,62 @@
+# Law Firm Radar — source data. Pages, index and daily news are generated from this file.
+# Fields: name, focus, site, [tools: [[label, url]]], [note], [query]
+
+groups:
+  - id: usa
+    title: "🇺🇸 USA · Law Firms"
+    companies:
+      - {name: Kirkland & Ellis, focus: "Corporate, private equity", site: "https://www.kirkland.com"}
+      - {name: Latham & Watkins, focus: "Corporate, litigation", site: "https://www.lw.com"}
+      - {name: Skadden, focus: "M&A, securities", site: "https://www.skadden.com", query: "Skadden Arps"}
+      - {name: "Cravath, Swaine & Moore", focus: "Corporate law, litigation", site: "https://www.cravath.com", query: Cravath}
+      - {name: Sullivan & Cromwell, focus: "Corporate, financial regulation", site: "https://www.sullcrom.com"}
+      - {name: "Gibson, Dunn & Crutcher", focus: "Litigation, corporate law", site: "https://www.gibsondunn.com", query: Gibson Dunn}
+      - {name: Sidley Austin, focus: "Healthcare, regulatory, corporate", site: "https://www.sidley.com"}
+      - {name: White & Case, focus: International transactions, site: "https://www.whitecase.com"}
+      - {name: Ropes & Gray, focus: "Life sciences, private equity", site: "https://www.ropesgray.com"}
+      - name: Cooley
+        focus: Technology, venture capital
+        site: https://www.cooley.com
+        query: Cooley LLP
+        tools:
+          - [Cooley GO — free startup legal guides and document generators, https://www.cooleygo.com]
+
+  - id: uk
+    title: "🇬🇧 UK · Law Firms"
+    companies:
+      - {name: Clifford Chance, focus: Global corporate law, site: "https://www.cliffordchance.com"}
+      - {name: Linklaters, focus: "Banking, corporate law", site: "https://www.linklaters.com"}
+      - {name: Freshfields, focus: "M&A, disputes", site: "https://www.freshfields.com"}
+      - name: A&O Shearman
+        focus: Finance, corporate law
+        site: https://www.aoshearman.com
+        note: "Formed in May 2024 by the merger of Allen & Overy and Shearman & Sterling."
+      - {name: Slaughter and May, focus: "Corporate, competition law", site: "https://www.slaughterandmay.com"}
+      - {name: Ashurst, focus: "Corporate, infrastructure", site: "https://www.ashurst.com"}
+      - name: CMS
+        focus: Commercial, technology law
+        site: https://cms.law
+        query: CMS law firm
+        tools:
+          - [CMS Expert Guides (free multi-jurisdiction guides), https://cms.law/en/int/expert-guides]
+      - {name: Simmons & Simmons, focus: "Life sciences, financial services", site: "https://www.simmons-simmons.com"}
+      - {name: Bird & Bird, focus: "IP, technology law", site: "https://www.twobirds.com"}
+      - name: Pinsent Masons
+        focus: Technology, infrastructure law
+        site: https://www.pinsentmasons.com
+        tools:
+          - [Out-Law — free daily legal news and guides, https://www.pinsentmasons.com/out-law]
+
+  - id: india
+    title: "🇮🇳 India · Law Firms"
+    companies:
+      - {name: Cyril Amarchand Mangaldas, focus: "Corporate, regulatory law", site: "https://www.cyrilshroff.com"}
+      - {name: Shardul Amarchand Mangaldas & Co., focus: "Corporate, disputes", site: "https://www.amsshardul.com", query: Shardul Amarchand Mangaldas}
+      - {name: AZB & Partners, focus: "M&A, competition, regulatory", site: "https://www.azbpartners.com"}
+      - {name: Khaitan & Co, focus: "Corporate, commercial law", site: "https://www.khaitanco.com"}
+      - {name: Trilegal, focus: "Corporate, technology law", site: "https://trilegal.com"}
+      - {name: JSA Advocates & Solicitors, focus: "Corporate, regulatory law", site: "https://www.jsalaw.com", query: JSA law firm}
+      - {name: Luthra and Luthra Law Offices India, focus: "Corporate, dispute resolution", site: "https://www.luthra.com", query: Luthra and Luthra}
+      - {name: IndusLaw, focus: "Corporate, venture capital", site: "https://induslaw.com"}
+      - {name: Anand and Anand, focus: Intellectual property law, site: "https://www.anandandanand.com"}
+      - {name: S&R Associates, focus: "M&A, capital markets", site: "https://www.snrlaw.in"}
