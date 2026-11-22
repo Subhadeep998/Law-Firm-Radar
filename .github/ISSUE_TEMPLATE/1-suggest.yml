@@ -1,0 +1,27 @@
+name: ✨ Suggest a law firm
+description: Add something useful to Law-Firm-Radar
+title: "[Suggest] "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping make this better! Suggestions are reviewed by the maintainer before anything is added.
+  - type: input
+    id: name
+    attributes:
+      label: What should be added?
+      placeholder: Name of the law firm
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official link
+      placeholder: https://
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+      description: One or two lines for other readers.
+    validations:
+      required: true
