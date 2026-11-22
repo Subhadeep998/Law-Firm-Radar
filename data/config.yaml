@@ -10,3 +10,5 @@ search_links:
   - ["📚 Insights & publications", "https://www.google.com/search?q=site%3A{domain}+insights+OR+publications+OR+briefings"]
   - ["🎓 Internships & graduate roles", "https://www.google.com/search?q=site%3A{domain}+internship+OR+graduate+OR+trainee+OR+%22summer+associate%22"]
   - ["🏆 Chambers ranking", "https://www.google.com/search?q=Chambers+and+Partners+{name}"]
+stat_plans: deal & strategy stories
+accent: "#E6B85C"

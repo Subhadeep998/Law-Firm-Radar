@@ -20,6 +20,27 @@
   <a href="#-for-law-students">🎓 For law students</a>
 </p>
 
+<p align="center"><a href="NEWS.md"><img src="assets/live-stats.svg" width="100%" alt="Live dashboard — refreshed every morning"></a></p>
+
+## 🔥 Today's highlights
+
+<sub>The newest headline for the ten most recently covered firm entries — refreshed every morning (IST).</sub>
+
+| Date | Firm | Headline |
+|:--|:--|:--|
+| 2026-11-22 | [**Linklaters**](firms/linklaters.md) | [Hogan Lovells Cadwalader, AZB, CAM and Linklaters advise on $375 million Aegis Logistics QIP](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVHFXN2VWQXZUTUNKaHBMVE9zRV9kSDBzRHdSODU4VUNjMS1GMTVHRkRWQ3lWeFc4RHRia1dsMGlPdjdaMHBKSmp5M0RYZ3NfdzBCLWh3bkUweTNkLUhpZlBhSmFETDVwZTlNeDJKWUxiZ0RZOXlmRGVXUlAyN1F1NUstMXFkVXFGNXl6bVpHRWtnUFhzVGdGQlpOUlN2NjJMVmE5ajc2dDhvTVo4clJNSkxWTTRVWHFLVTdKem5FNE8tQ3cxVUQ4NnpCaEVLeE50WGdZbWpSbFk3eFFxOXB3ZDRpX243QWhxeUMyQ25KWER1QdIB9wFBVV95cUxOVndXQkR5UWl1REg4THdmNFlfTkVYNUtwakpQcXdIYm12X0lYb18zMXRaSjZmWE1faWdHXy00XzFTM043OG1DSnJzRFp0WDFMeVh0ZEloQU4wU29CVk8wRmdPbGpfbzhzdmc1NjlxREhQY3UxeGZhY2RYal9JQ3hGckdZY0NLS2JpWkF2RXNRSU9MaC1MT2tFTVJkUmNWX1ZRRHN5dVUwNWxkYkJZQ25QVzh5QTJFQzhueElxaGg2TVo1S3VVUVFVa3dRT1BxVkcxZEVwVzkwTzZvOVFCYnZWNVhOZGh2QTFsUFQ3MFg3ZEtSWWVrRjFj?oc=5) |
+| 2026-11-22 | [**Bird & Bird**](firms/bird-bird.md) | [Stopping AI fakes: deepfakes ip germany guide](https://news.google.com/rss/articles/CBMiigFBVV95cUxORDJSWTBLam1aend4NXl6MktnX2RYN3VLTjhnRTBYd2VvdkdvVFM4TjlmVU5haTZURkYydk81MFBlaGtYejl6MGJNb3FOQWRQOVJNYUgwUkRNZzNIeUVZcTNzRkwyNFhvV2hwRnNRZkZnSnRnYmZxT2ZUbVZiRTVDblFtUmt3ZEdqVFE?oc=5) |
+| 2026-11-22 | [**Cyril Amarchand Mangaldas**](firms/cyril-amarchand-mangaldas.md) | [TMT Law Firms in India: 2026 Selection Guide](https://news.google.com/rss/articles/CBMihgFBVV95cUxPbERQZ2Fkc2dwM3pGOHNzWjkzcHRJM0FxdzdYNDVxNHJ3RkRfY1VveTU5R0VmZWJ6UnZVZGNKZnAtd1dKbmk4eFg0Q3JiTkIyMkZvcmNhOWdaSEtFQnZ1NENpemNIbFhUOE9TcXliekNrT1R2VVhvWlZpWURUVGpWUmVJUXBxZw?oc=5) |
+| 2026-11-22 | [**AZB & Partners**](firms/azb-partners.md) | [Hogan Lovells Cadwalader, AZB, CAM and Linklaters advise on $375 million Aegis Logistics QIP](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVHFXN2VWQXZUTUNKaHBMVE9zRV9kSDBzRHdSODU4VUNjMS1GMTVHRkRWQ3lWeFc4RHRia1dsMGlPdjdaMHBKSmp5M0RYZ3NfdzBCLWh3bkUweTNkLUhpZlBhSmFETDVwZTlNeDJKWUxiZ0RZOXlmRGVXUlAyN1F1NUstMXFkVXFGNXl6bVpHRWtnUFhzVGdGQlpOUlN2NjJMVmE5ajc2dDhvTVo4clJNSkxWTTRVWHFLVTdKem5FNE8tQ3cxVUQ4NnpCaEVLeE50WGdZbWpSbFk3eFFxOXB3ZDRpX243QWhxeUMyQ25KWER1QdIB9wFBVV95cUxOVndXQkR5UWl1REg4THdmNFlfTkVYNUtwakpQcXdIYm12X0lYb18zMXRaSjZmWE1faWdHXy00XzFTM043OG1DSnJzRFp0WDFMeVh0ZEloQU4wU29CVk8wRmdPbGpfbzhzdmc1NjlxREhQY3UxeGZhY2RYal9JQ3hGckdZY0NLS2JpWkF2RXNRSU9MaC1MT2tFTVJkUmNWX1ZRRHN5dVUwNWxkYkJZQ25QVzh5QTJFQzhueElxaGg2TVo1S3VVUVFVa3dRT1BxVkcxZEVwVzkwTzZvOVFCYnZWNVhOZGh2QTFsUFQ3MFg3ZEtSWWVrRjFj?oc=5) |
+| 2026-11-22 | [**Trilegal**](firms/trilegal.md) | [RBI Banking Rules India 2026: Compliance Guide](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdC1WZmJZM21sRzRTeTJTdXUtR28zWlUtY0JEMzloWlpPT1k1VklvcmRmemRRUmNHSzlSSkZsTTY3YzZmZ0stSGN6Q1lWWHVpZTZfUGJrektRWTBiQVUzV1dNaDRWV0d3SXJnYkE4LWZfYTN3bHc2TWxJUGdjekJrcnpoNHNtNW1WVHQxRjRjd2M?oc=5) |
+| 2026-11-21 | [**Kirkland & Ellis**](firms/kirkland-ellis.md) | [Kirkland & Ellis did at least $11.8 million of free legal work for federal agencies under its Trump deal, Democrats say](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVmNLXzNKWWJqNzBoX3loUUpsVF9rN2hqNXlzRFREZ19Nci11ZVh4bU1zSm50VkFocTkzWWk0cG9vWDN1VGpuemRoVlotVEl1bGhSS3V0NFJMd0VQMlNlSlc3M2dxeUJuX1FWeFBzTnNTaFRWZ0JnR05wd2VGTXd2cmYtS0FSZHQyWkNFMU5WQnNrbFl1azBEVlAtQ1FhQkg1ZmdBd2gzT0hPbXdTR2I4ZEJrWjJoN2wzSkJzVlZKQ1o1bDA3bGJ6SUZVbnAyTXlY?oc=5) |
+| 2026-11-21 | [**Cravath, Swaine & Moore**](firms/cravath-swaine-moore.md) | [Cravath Opens the Bonus Floodgates And Now BigLaw Has to Pay Up](https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkFfZzZMTFFISkNFb1NwMkRSV2g5b0E2R2pFQ1BSM1J1SVJ6MkNCSmZZUG9EcHlhRktSYS1OYXl5WWVhSkt1WWliVUFtT2p5SmE3a3RsNkNoaWRPNkhteXhuZ25COHRod0x2N2owZ3hiMnQzS0xOQVdmNnNnSUlOMklFZkVueU5wSHdJTWdMdW4wQQ?oc=5) |
+| 2026-11-21 | [**Sullivan & Cromwell**](firms/sullivan-cromwell.md) | [Fenwick & West, Davis Polk, Sullivan & Cromwell advise on TPG-led $6 billion BILL acquisition](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONENvNmwzVnNVdjIxcmFJZnJueFFMN0NZWnhLQzNiRnhhcXM0NVp0N1dNR2NaSUl3Y0JlWjZHYjBQdEFSdm5MX2Q3elN5dDEtekxKVHNNNm51QkZ6QTR2UThwUl9OUG9FOFMzOWRDSU5lVWZLMlVwbW9CbGZyb013dUxoUWFXQUVwS21ES2tMVElvVlRGX3RyNjA3ejNOQWNpeFhVRFBKNzBKN1NzM28zdTFIS0ozS040Z3lJVXp5dnhEcTJvSFpkT2NwNVViNzdJSUJvTzFKRHpZSjQ4ZzgyckFVYmxJaHlwTEVoWmJn?oc=5) |
+| 2026-11-21 | [**Freshfields**](firms/freshfields.md) | [Big Bang at 40: Freshfields on London's AI Future](https://news.google.com/rss/articles/CBMilwFBVV95cUxQbDZEdWRoV3huVmxGeERzNkswUzlSeVA1QzAyeFFzb3hSWlZDMXRkeUJjSExHYzF4aEkwTFp5THBUalRjamI5UFMwMzNXMEFWOWhhamhyRzdNazJNRFhUU1M2VUlid09rUHFaSmdBQ3k2UThDTlVHRVJ2UW9vQ3l2M0ZmVkt6N3FQTER5a2NOLWZ5RldoU253?oc=5) |
+| 2026-11-21 | [**Simmons & Simmons**](firms/simmons-simmons.md) | [DRCF report on Consumer Interest & AI](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYi1IVGpxeV9fbUZnY01Hc2IzUUxmY1dUeXRZYUYxRHhnY0haZlNHekVLZW5MVzFIdWlUc1VJN3lIN1JjdlJDV1F5dFlBUmZ0QlNtYlY5Q3FsTWRCZFYzVXpmU1dFeXcwWlVMemhWRzBESFdlWTY4LTd5eHRMeEw4VFlaMVZ1X2tKUlVRMjdlVEE5MVVSRkpadzYxVUNKaWhYZlpXLW51eFVwUEpuUFE?oc=5) |
+
+<p align="right"><a href="NEWS.md"><b>Full daily digest →</b></a></p>
+
 ---
 
 ## 🧭 What each firm profile gives you

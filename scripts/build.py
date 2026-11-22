@@ -22,6 +22,9 @@ import xml.etree.ElementTree as ET
 
 import yaml
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import livecard  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CFG = yaml.safe_load(open(os.path.join(ROOT, "data", "config.yaml"), encoding="utf-8"))
 DATA = yaml.safe_load(open(os.path.join(ROOT, "data", CFG["data_file"]), encoding="utf-8"))
@@ -172,7 +175,29 @@ def write_index(news):
             rows.append(f"| [**{c['name']}**]({c['site']}) | {c['focus']} | [Open →]({CFG['pages_dir']}/{s}.md) | {cnt if cnt else '—'} |")
         blocks.append("\n".join(rows))
     count = sum(len(g["companies"]) for g in DATA["groups"])
+    # live stats card
+    latest_n = sum(len(v.get("latest", [])) for v in news.values())
+    plans_n = sum(len(v.get("plans", [])) for v in news.values())
+    sources = {n["source"] for v in news.values() for n in v.get("latest", []) + v.get("plans", []) if n.get("source")}
+    livecard.render(os.path.join(ROOT, "assets", "live-stats.svg"),
+                    [(count, CFG["noun_plural"] + " tracked"), (latest_n, "headlines this week"),
+                     (plans_n, CFG["stat_plans"]), (len(sources), "news sources")], CFG["accent"])
+    # today's highlights: newest headline per entry
+    top = []
+    for g in DATA["groups"]:
+        for c in g["companies"]:
+            items = news.get(slug(c["name"]), {}).get("latest", [])
+            if items:
+                top.append((items[0], c))
+    top.sort(key=lambda t: t[0]["date"], reverse=True)
+    if top:
+        hl = [f"| Date | {CFG['noun'].title()} | Headline |", "|:--|:--|:--|"]
+        hl += [f"| {n['date']} | [**{c['name']}**]({CFG['pages_dir']}/{slug(c['name'])}.md) | [{md(n['title'])}]({n['link']}) |" for n, c in top[:10]]
+        highlights = "\n".join(hl)
+    else:
+        highlights = "_Highlights appear after the first daily run._"
     body = tpl.replace("{{INDEX}}", "\n\n".join(blocks)).replace("{{COUNT}}", str(count))
+    body = body.replace("{{HIGHLIGHTS}}", highlights)
     body = body.replace("{{UPDATED}}", TODAY.strftime("%d %b %Y"))
     open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8").write(body)
 

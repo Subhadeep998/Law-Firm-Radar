@@ -20,6 +20,16 @@
   <a href="#-for-law-students">🎓 For law students</a>
 </p>
 
+<p align="center"><a href="NEWS.md"><img src="assets/live-stats.svg" width="100%" alt="Live dashboard — refreshed every morning"></a></p>
+
+## 🔥 Today's highlights
+
+<sub>The newest headline for the ten most recently covered firm entries — refreshed every morning (IST).</sub>
+
+{{HIGHLIGHTS}}
+
+<p align="right"><a href="NEWS.md"><b>Full daily digest →</b></a></p>
+
 ---
 
 ## 🧭 What each firm profile gives you
