@@ -8,7 +8,7 @@
 
 ## 🔭 Deals, mandates, expansion & strategy (last 30 days)
 
-<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-22.</sub>
+<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-23.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -25,6 +25,9 @@
 
 | Date | Headline | Source |
 |:--|:--|:--|
+| 2026-11-23 | [How Elite Litigation Boutiques Beats Cravath’s Salary Scale](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWJ2Q3BacEpEbnR6NTVYTTlNcG5WRUt6clpFOV9vSmJjdkkxQ0FTSEROUTNEeVJzbUs0S0Y3NFBfci1tNXVqNFRValZ4dExXSTM4bUhsYjhEZXZOWkd0cmZIWFQ3Sk1yVGNXVG9LTFFaZ0ZReVVJRjVXYno2aUV3YlJHRE00RWN4Qjk0?oc=5) | LawFuel.com |
+| 2026-11-23 | [The Money Train — See Generally](https://news.google.com/rss/articles/CBMib0FVX3lxTFB2NUNiem9RSW44RHhxdDVQZ0tRa2x4NmY4Zl9rQWZWV1dDSWtRaVdCa1Y3TURFRWpDemRiUldWN05sWHJsS053TU5JaHpRRjdaak9oQzFZenZIUDVvZVhQbzlXUjNIbGxnWmU1V2xVUQ?oc=5) | Above the Law |
+| 2026-11-23 | [Holwell Schuster Sets Associate Pay Above BigLaw](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnVscjBJdG1LUEdNWWlZbml4bGxYU2s3aWE1b3FFa0NZMHB1aXBpWUpxNE5JNU5WZXJ5M3hvWVcyaURCbFczMDRVcl92MWwwLVJyc2hROUYtdUlNTElsZnlIb3dXbEFYamdLQkZtcXpmTk9pWTN6Rm9MMDNkMGlOTVZoRzg4MzRULVByS0thTWYtTll0YUdHWm1BdWFPQ1NUbTg1bQ?oc=5) | Wisevoter |
 | 2026-11-21 | [Cravath Opens the Bonus Floodgates And Now BigLaw Has to Pay Up](https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkFfZzZMTFFISkNFb1NwMkRSV2g5b0E2R2pFQ1BSM1J1SVJ6MkNCSmZZUG9EcHlhRktSYS1OYXl5WWVhSkt1WWliVUFtT2p5SmE3a3RsNkNoaWRPNkhteXhuZ25COHRod0x2N2owZ3hiMnQzS0xOQVdmNnNnSUlOMklFZkVueU5wSHdJTWdMdW4wQQ?oc=5) | LawFuel.com |
 | 2026-11-20 | [K&L Gates adopts Milbank‑Cravath salary scale, raising first‑year associate pay](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1paanFERTV2Mzlka2FRMXlLZzNDNTQ5UmlILS1YeTBXa3pfZDZValg1SWpoVFpSZ181RWdkSmtjTVFHLWhaZzdUSkFyeFhCVkhhQ1p2Mzl2ZXJjcHNNNWUwSEdjWnFYVDlZWm9lN1NVaDRUUl90Vms2dmxVNk5FTnVXUjlHemdiQUFIS0tfalpxaXJ0MjNOY1dxMFFVUUlPNlJJemt6ZTVZZTQ?oc=5) | Lawxy AI |
 | 2026-11-20 | [Pallas Offers $247K Associate Bonuses, Outstripping Cravath and Milbank](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3JyU0otSnl3eEZJZ3VHd1dWMDB3YS1qdEJxT3JVVzdXSERjVDdFX2J1Tmo5MC1hb0ZvMGdJeHRyVnNVSUF1NE9ZOVhxZFpYbm14bXVQOXJxajR0UnJTQWNCcTNGa1NtYzVXeGE0ZTFJbDhCeTJCcjNIVWZ1NkhHMU9ZRHJQTVVMU3BzaWRDX0pXMnpkdVVKUEI5UUNQd2picXluNUZUb25Gd0hWWVo2NndKTTQwUllmY05zY3p0Ri13Zw?oc=5) | Law.com |
@@ -32,9 +35,6 @@
 | 2026-11-20 | [O'Melveny & Myers Delivers Associate Pay Rises By Voicemail As Cravath Scale Matching Confirmed](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTFzUmRwZkhOWDRWcmtyRVM1T1RYYmNpMWh2UWR0SDZPNTZ0THpKdTdtdEVUaUtjQnlpNWFDYW5BWktNX192V3dCM09aTXpKdlpoNlA3VXllU1VISDJwTXJzcGVnLWEyeDR4QzVDS3htSDcwb3pnVm9kZnlMU0k4SU00MWlqMkdBV2JpQ2hta3h1RUtNZTlHNE5DUll6VTdCTHpZV1JBRFFjYlpmNWpHTnFrVFdUSlFEZEZKSjVn?oc=5) | London Insider |
 | 2026-11-19 | [Major law firms boost associates' pay following Cravath, Milbank](https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUtYRmZLMDFZUHpNQXhwWXhWU2Myd2NZalNGend4TGF3VmFEQlA2elZoLW9jSFBwX0NXZWRzYjdEZ1B5Y21jQUpJVFQ1STdhNm1maEpsUWdkTUZ1OW9lYXo0Z2xRUDVnQ1RlNHIxRlVibkJfanVEYVRpc0pFaV9KU0RabDFkaHJqV1NXWmJYSVh5WGpDRWtBM3FvZEx0c21NRzd0VGwyY0dITHIwUS1rdmtTQW52dw?oc=5) | Reuters |
 | 2026-11-19 | [As the World Turns: Cravath Serves a Timeless Full English](https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUNDa1gza0tRcHhyN2NkYzhXN25TRDVZeFJldHcyQzdoZHZPMEtXaFg0cm5zUzItck9penhYVzMyQWNrcmRZZHVpQk9Xam1Md3BTM2Z5TnNZaTg3eHk3T2hoY0tyMmM1M0FCUnQ1Z0NwNmhkOTMzU0NsczFlMjc5XzlVek44WXR2a2FBOVlCM2NhNmstaUtabC1xbWlwWEg5UDcxRV9Qa3h0VFJWYWxITE53?oc=5) | Lawdragon |
-| 2026-11-19 | [Paul Hastings, Proskauer Match Cravath, Seyfarth Lags Market](https://news.google.com/rss/articles/CBMipwFBVV95cUxPb09TSUxtREEwSVdiUjJVamU1ZE5Mc3NzQWduczJ3ODRRZUc3S3M3X0tmSlVCemZ1YXdjbE91MFA4Q2dXUFplTjZqV3JRZldrcFZhVlJkWUNUbzVvTWJMQVg0aU9HOFdCeHRaQjhvNkVBNFZpdEZPMU5aNk5nTWpOVnpjVnhBam5VTERqZWRXR2x1T1p6Mkp6TERnSXFfVVpuVVpHa1lHRdIBXkFVX3lxTFBWcXkycjNKMG53bmwzUEZKalhoVDBWV0NUeUZpb1ZHSldaTnRIaW1tWmt6U3R5ekp5Y3hpXy1DVzNFYVh6WEV4MWlhZ1pTVVAxY1NzNUxYRmNjV0M3NlE?oc=5) | Law360 |
-| 2026-11-19 | [Fried Frank and Cravath among Big Law firms to match Milbank scale](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVl9jd2hsOWRxdG9mQTNka3VSc1FUWnNKbkxFbmsycFZIUlluZm01NGsxY0FBSmRfMzF5VVo3N2ktTUFXWXRmUjBmRFFjLVEwdjBjX2xQNUNTdWRNLXhJeE05Nk5oa09MZkVOdkdSRXBoaV9RczhGeXBBald6dW5SRjZFS0dZb2NTMzFvcWFHajRxVDkxUGVPNw?oc=5) | The Lawyer |
-| 2026-11-19 | [Cravath and Fried Frank match Milbank pay bump, increase special bonuses](https://news.google.com/rss/articles/CBMitAFBVV95cUxQazA3bFZnTWxLQzJDZ0ltdTlNV3RFQWJ3eS1FeVRHWlBIUGxJSDdTbHVaLXJsR3o2N05IdXB2QUYxZjhvV204V1gwQjZtUjlCVE51dF9sSml0Rzk1VXFPTkpMWXQxcWdxQlA4VWg2S2FMdFlyTXVwcEotT1hDSHpjYVhURDNfV3JvUjExS0YyXzdDMWFmbnJYcXo5QVVybnhTME9MVjBKS0FxeTM5TUlYN3NGMGQ?oc=5) | Legal Business |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
