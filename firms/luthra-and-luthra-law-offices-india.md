@@ -8,7 +8,7 @@
 
 ## 🔭 Deals, mandates, expansion & strategy (last 30 days)
 
-<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-23.</sub>
+<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-24.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -29,7 +29,6 @@
 | 2026-11-19 | [BW Legal World Unveils Compendium of 325+ Most Influential Women Lawyers in India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDlpSFRSWFh2MlJnNWtjcnhOaDJNSHFtZkpiMklqeFBKQkpscDBMTllIYmwxZ2ZGTmFjR0N5S0FPMmg3YUVjTzNxNlZjdmhLUm81VnNiQXo3WTlLall1bjMtaVZwRlV0S3p3a2RmeERRUDU0OXBoVW1od3pKU3JBRDgzNW9jd2xMWjNudHczTlY1R0NiWEw0aXVhUXpnVU44eWh3dEVCVkxtYURVWkQ4TE5yTUhsdmlZdzlHamM1RDdPUQ?oc=5) | BW Legal World |
 | 2026-11-18 | [Rays of Belief Ltd. IPO Review - Rays of Belief Ltd. IPO Dates, Issue Price, Subscription and Allotment Status](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTBhNDU1c0xRTDZORXVneDkyeExrUEJkOVBXei1ndkhmMDRjZHFrZXQ4RUswbUR5cTJKSW5vQnlxQ3J3MEotQ0FERnk1cFdLUTkyc1dEYlVVY1IxOFlrN0dtTm0zR0xLazVWSkpadU9Gc2JUZEUzbVliQ21SYk5RS25FZHV2ajZGU1E?oc=5) | The Economic Times |
 | 2026-11-17 | [Dentons Link Legal, Luthra act on Iris Global ₹200 crore+ proposed IPO](https://news.google.com/rss/articles/CBMitwFBVV95cUxPa05KMDllNDNhaFkybjV4VF96cFRXY1pGZzE1REpJbGpUNGdzaE5FR2IzT2sxWm9QektqNmNwUkxmU3pGSU5fTkxKWGRLc0pwR0JhVWZTc0dKVF9LWVRUYk45VDc0ZTh5VmEzRUNzMUN6bkg0Z01WNE9CeGdfV2RpQWUwRlBnRlA1WHIwN0ZIWUZYUjVRX2NLMkV5WHYtQ2xya0g0dkRreVVCemF5Yy1vb2pFb0Q3RVHSAcQBQVVfeXFMUFBYdnNKZ2JzNlpFZWRyUEl1bk9RTTZqZzNuZF84YlZnR21fQkFXNXhtbU94VWxEdzJPYkVlVzBJTGx1MHpxemQwR01kdklFMi1BRFRKdGVnanlhUVVBTU1PTHRYQVJOMm5TWXJTVXNKNXFsQk8yTWx2X0hPQkRPbmN5eEtFbXg2X0RYSFlpb2U1Nk5Cc0oxR1BLMGZpajhNMnExUjVIT09Vay1zS3ZtemctcWc3SmxJcDktTU1qZ3lZRXNfRw?oc=5) | Bar and Bench |
-| 2026-11-16 | [India’s 10% User Threshold: Is It Effective for Data-Driven M&A?](https://news.google.com/rss/articles/CBMivAFBVV95cUxONG13WlZtLUEyLXlYYXJGeEY1X2tMQ3JqX3M0cnJfcUlhZExpc2pHQ1JTRHl6Z0xuQkVNb3ZiQzNwb0tyRjliNkc1djFXNzNjbGhobWo5UHdkZ2djOEJ3alVKSDdHcXg5QW5xSG5saFl1Y3RoS2tjZ0g3WGEyS0dMN3ZaQWI5NzVZdmd2UDlkV1Z4MXBWVV9na0NldWlzdmN0OHNvUTBZMnY0blNBSURLWXdjYVVISjRLMEtGaQ?oc=5) | TaxGuru |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
