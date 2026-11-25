@@ -12,7 +12,7 @@
 
 ## 🔭 Deals, mandates, expansion & strategy (last 30 days)
 
-<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-24.</sub>
+<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-25.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -29,16 +29,16 @@
 
 | Date | Headline | Source |
 |:--|:--|:--|
+| 2026-11-24 | [Landmark UPC decision highlights potential for Arrow-type relief](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3NMVGRrNmZnQk9VY2JPVjVwQVBpcV9ldW1tSmdITVQ4Q1VpbUdWS0FoMmZGNlM1Zy1FTDl5XzE0QVEtRFFaNTRTamEzYmlMaXZjenI4MTlHQ3lWLXZnVHJKQ1Z2MTRIc242S2hIVUtYMm9oc3R1ZlZ5U0xQNTZmTEE1cmVNY09wV014dTZEak96Q0E4V0lDVGRpM3UtZGxjMFpaRFV2Vjkzb2c?oc=5) | Pinsent Masons |
 | 2026-11-24 | [Retailers urged to strengthen cyber defences against supply chain threats](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmRnUW1TdWpDSGJQd2t2UDBhUXVfb0VXUmlJRzVIRFh5NjE1cVlnd1NXZE1fVUNUbmJKellNY0MzMnFBZnhXVGdReDdLUDdHZXh1bkktelN4cVVWQlYwc1M1ck9DSGp4R1k5S0Jka3FSQ014YXVZNklBTV9wT2ZMTUE2NlFSbFhmTWEySG80QUg5TFYzOXRwamd3T21KS1g1Zi1yMHRPQ0R1TkdmZm9fZ25rSEJWQ0E?oc=5) | Pinsent Masons |
 | 2026-11-24 | [UK financial services firms get fresh cyber guidance](https://news.google.com/rss/articles/CBMimwFBVV95cUxQbjVzYXdOSzRncDdyYmR6bEZ6QXl0cjE3U2VSWTkxTFJIT1VrZWlaTlZBdWRQejNGd09BNllPMTc0WlRKY0R6UVotV1QtbURoOW1RQWFfM05HNUJCUm16ZkpDXzdXbE9oYmpQX1hSQzhUeVdsQTRDUS1sRUpLUWtzRk4zNllkalB0Z3ZHNFlmVG9HNnVQNWE2OExKbw?oc=5) | Pinsent Masons |
+| 2026-11-24 | [EU and UK agree new youth mobility programme](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQlFaMTdYUVplU0R1SVVqNk5tS0FMVkhLU0VDQk1tQUFRTEdETGZEcFoxZ0RsdlJHNWJoOXVKY1Jlc2wxMVZXcV9vWnpyVkpPZFZkNUxab0szM3FMTWQ3TXA0V2pZbTZTQ20zS01RQzA0UEhFZDZEeTBGeXRXTmxUcmMycWFjWEZ3NHdtdHdvaGM?oc=5) | Pinsent Masons |
 | 2026-11-23 | [Qatar modernises its Civil and Commercial Procedure Law](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmdsWUpqRzQtRkdCRm4ybkwxdTk0cDJ5aWxlNzFYV1BMQTgwUk9jSWZ5SGZSYTJ6SmlwUHpjcmc2Z180OE1BV0UzZTRac2wzZUxaNUVQS2t1MVlPbzlwZk5sZlh0dzZocms1SXF1OHZYbWQtcWg5ZlEzZ1BpLXJfYzdpekZyTGd3a1pYcTRrYnpLaHNxN2hoVlln?oc=5) | Pinsent Masons |
 | 2026-11-23 | [Use of snapback clauses in sovereign debt restructuring requires some thought](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWk5BM04yT2xwTWNjblRLZWNMUWhmVnFIMHBhTk1BQl9WRGVfV2dONUZtWGNzZVlLaTQ1Wl9JU2ZyTWFGa0pwTzU5eEtuQ3lKZ1FVNnF2NmZuZ09vM0dVWHNPR1hVT0lBX20tZlFKMWlFMFdfTnhDTUtUY0dtcHptMkxrcjhBYXJ4UkhmWEFpNDlmbTctVnVz?oc=5) | Pinsent Masons |
 | 2026-11-23 | [Queensland's Construction Productivity Code: what contractors need to do now](https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3dMTWFXMnF5bFFuUHhkcnhleTA1TDBMQ1M1dE41RHZYcVdrd2dRWnNfRlotVkNyWm9LbnpKUnNIaU9yTXNSSy0xUzBMNWNDSi14bFFscTVzQ2NiQ2tXUDZKcmNXb1BHbV9ZUlFzRHdQVFRuQnphNGlsNk9qVWtnVEpIbmVpMFdFZnJicWZDTWxUM2h2WGFwUnpoNnM1M0ZkNjI3RjJZamR3cDhZZEhYNg?oc=5) | Pinsent Masons |
 | 2026-11-20 | [Cost escalations set to create challenging Brisbane Olympic infrastructure budget](https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXZwNzhnTk01ZDZmZjN4SzRTa2xtZUhtaDNfaXFzdkJzUXQteTlrRk80NTFwekx0eXJkdUZLVzdTZ0VfMzJIN19jbjh5SVZSaEVFMS1nVVJPZGZrRk1aRDk3WWJ6Rm15dm1HNFNPLXdnZWJUS3h2VFdwREtxS2RYZnFsdTFNcWxxUDVGMktGcw?oc=5) | Pinsent Masons |
 | 2026-11-20 | [Dubai Arbitration Week shines light on emergency relief, enforcement and the changing disputes landscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVBPeXZvdG1PMVctazhFY1A4eTJCTlVxZkNrTFlMVXZwclpSRDdjdkRGenNfMGlyUnc5QlN5bElEaXlZTFJtMFlRSEswSzR2ZzR5Um9nVXRkRjVnenFUMGM3OTVZYmVrcEtnVlBYc2J6OUFRR1I3bkdZZDAzWGxwb2dSbWN1T0p4bjZmU0tBTW1fa0t6YTA4b1lYS0dCQkdaYUFNLUhsU0RRS2c?oc=5) | Pinsent Masons |
 | 2026-11-20 | [Employers face new trade union statement obligations](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0lTLWdtSDRpeTdGdmdzVzlFRjROTUtfMndNeF9NcS1oenNjNXAxR2hqdVJtaWtnZUdGYWdBYTdocE0xVXB1YncxdDZDNm1mbHpISmRBX3VrT283TFRXUFlCSHVuRW9ubkIxcFZ4a2hFSHlEM2d6d1VwN1cybXRjWWZ0NkltLXRRam55MThLZm42Wkhma3dBTVFLUQ?oc=5) | Pinsent Masons |
-| 2026-11-20 | [Regulator moves to improve health outcomes for women](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmctUk5iMjhNODdCbVBBelFiWkR1b0ZSUS1XT044dE5qby15SmlJYTJRM1g1TXN0QkotUWpfTmhzd1VacnpyOGdUT0FTV0MyWVJDMjYyUWMwTE5JcEpqQUI1NWp0VmNOVzdSY0dtRHllVkZQNmJWbFdJWlhtRFFqUXcteG9DcFFidTJlSnY2S2dOVDROdHVoWHYxNA?oc=5) | Pinsent Masons |
-| 2026-11-20 | [Vietnam prepares for finalisation of ‘innovative’ specialised investor court](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZTVnN1ltRXowVzN3MUltY2hQQnZHWnpUX1ZyRUhBTFk2cTVqdmppZEUyM2pQb0gzcWFiaV91aVlHN0VLS1dLbE5faVhMTXl5cG9zb3IyYUpmZkFWZDNYLXVPdTZkdTVFdWFKTVlQb0xZalhCcE14ajNrakNiWnU0dWpyUXdSTmx1aUV1b3JLRmgyaGQ1alFONkpPdk16WnNHcjRMRFZrN1l6Y2MtWDdj?oc=5) | Pinsent Masons |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
