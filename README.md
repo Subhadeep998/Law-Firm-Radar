@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/Subhadeep998/Law-Firm-Radar/actions/workflows/daily.yml"><img src="https://img.shields.io/github/actions/workflow/status/Subhadeep998/Law-Firm-Radar/daily.yml?style=flat-square&label=daily%20news&labelColor=0D0F12" alt="Daily news"></a>
   <img src="https://img.shields.io/badge/firms-30-F2463A?style=flat-square&labelColor=0D0F12" alt="30 firms">
-  <img src="https://img.shields.io/badge/updated-25 Nov 2026-00CCBB?style=flat-square&labelColor=0D0F12" alt="Last updated">
+  <img src="https://img.shields.io/badge/updated-26 Nov 2026-00CCBB?style=flat-square&labelColor=0D0F12" alt="Last updated">
   <a href="https://github.com/Subhadeep998/Law-Firm-Radar/stargazers"><img src="https://img.shields.io/github/stars/Subhadeep998/Law-Firm-Radar?style=flat-square&color=E6B85C&labelColor=0D0F12" alt="Stars"></a>
 </p>
 
@@ -28,16 +28,16 @@
 
 | Date | Firm | Headline |
 |:--|:--|:--|
+| 2026-11-26 | [**Simmons & Simmons**](firms/simmons-simmons.md) | [Simmons & Simmons Takes Aim at AI’s Legal Accuracy Problem](https://news.google.com/rss/articles/CBMihwFBVV95cUxNYm4wR2MxYWM4eVdkdjg2TVhuUzg1WVRpbHdTOGlhbHhvYWRLMGZLTkFjeEFwZTZOT0M3Z3hzYTBoc0VSMUNmbFE0WS1ZTXA5M2tOWFdSNDdROHdjQlJucFdwS2RTbkNJTmtBbEhyc25ZMGZ2aDZaRkhkcmctdEZFS3daMEk3Wms?oc=5) |
+| 2026-11-26 | [**Shardul Amarchand Mangaldas & Co.**](firms/shardul-amarchand-mangaldas-co.md) | [Shardul Amarchand Mangaldas & Co. advises Urban Company Ltd. on ₹2,500 crore Qualified Institutions Placement](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWWdadmtoU213em01QlZRenpPTGwzRk9IM0JrQ0h4aW52RHNjcUhGNlhEbWpnbjlzbU1VWHdGejRiRWNPUmtPcmJhck5qc2JuREdaQ2QteG00X2VjUWd6dURvOVhrQ0NxdUNzLU9nMXJlNFJKem5qMUd3Wm8td2x0b1h0VU1yaUZTNkNISTdCNmczSUJhQWplS3otOE9jaWpLU1psMUgyTQ?oc=5) |
 | 2026-11-25 | [**Latham & Watkins**](firms/latham-watkins.md) | [Latham & Watkins Strengthens European Restructuring Practice With Addition of Market-Leading Partner in Germany](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMDRCRk5JampkWVJCVkF3WnNtMXA4aEtSS3hyYm9TdEpkWHBSajY5aDBtMXhuR1VfaTNteWtsWDVBc3Vnbk5QSV9GYXBveVpiVnN4M2dkRXlNOG5WQjktbDcza0txZy1MSnMyQWVyeUk3RF96VW5aWm9reVUwWXNCazA2LUpfSTBrTF9POXhLdlJ3VVItc29XNG9xeXg0Yi03ZGU2eG1STS1nMmlpYl9VMVV0cWk1RzM1ZGd3Z3l3VEdaMXgtOWw1WHhWUk53TFE?oc=5) |
-| 2026-11-25 | [**Cravath, Swaine & Moore**](firms/cravath-swaine-moore.md) | [Michael Aiello Lands $41 Billion Sanofi Deal After Weil Exit](https://news.google.com/rss/articles/CBMieEFVX3lxTE5jNmIxeG9JRHQ0Mm9LZ0l5RFRJUjNWTmVVMG1qZnFiaXRCU2xFVFdNM1Y4bXBwaVo4YVVFcHQ3WVByQjZySEtJQXc0ek10cHllcmFtQjNfTDZNU0JMUTNTNUtWRFZwV2JnMU5WQ3E1SjhZOTRyb1VYcw?oc=5) |
-| 2026-11-25 | [**Sidley Austin**](firms/sidley-austin.md) | [Sidley hires Weil private equity team in London](https://news.google.com/rss/articles/CBMihwFBVV95cUxOblpXbGlWODl5QTQ4SGNxU2wyX3B1bmJmcDNDQ2VIZEhJVjUtNndwVDEtYXpsWHo1SXc2ZHFsS0VQMGFOWExlTHVOX3puUmcwQUF5Z1EzNjExYjJqT3ZPRU9qT0pQWnhFOFE2Mmg5YUpNa0FHeTVhRmRKZ3lCRkVBZHZYUGRNb0k?oc=5) |
-| 2026-11-25 | [**White & Case**](firms/white-case.md) | [ACCC locked in on lock in contracts](https://news.google.com/rss/articles/CBMidEFVX3lxTE9mWnFFRkVWOTgwV3AzWUR0aU0tSkoxY1p3cDBXQlpOekdpSm1sXzgxVzk3QzdsS3JyaW1mZDFUdEJiNlZkdzgwaFhRRV81RWVoQVk2VElKTGpKdUo1X1Fpc0o5akRyQWQydmRxczhUQmQyV1Yw?oc=5) |
+| 2026-11-25 | [**Skadden**](firms/skadden.md) | [Legora announces firmwide rollout at Skadden](https://news.google.com/rss/articles/CBMifEFVX3lxTE54X29rd3VJZ0dDcGFMZTBIbHloWGhJdXIwMVlabGZ2MUVIeGd1LXROMURXazVnNVNFRnAtXzQ1QnJxdDM4RG5VTHQtQU9iQ2xMOXcxRU5leXBaTVJVcjB1TEg5TmtqMkh3bWVpdlUwYUdabHpfVFF5TnBwMHk?oc=5) |
+| 2026-11-25 | [**Cravath, Swaine & Moore**](firms/cravath-swaine-moore.md) | [OpenAI taps Cravath litigator for court showdown with Musk over AI dominance](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzJ1c09xSU9NV3J5RGI1Ny1hUkFmV1pURmljRHV5aldoS2tsaTdIMDE2RVBncFNpSmYtWW04eHh4cnlvR3N0Q3Y1MnNSVVNfNmVFUi1KMFk0eTIxclN6TkhhbDNvR2d3S0VncjJlUXhPODlvRVZhcGVGM1NoREFRTHc1QzFFMHlOdjNwSm1DalZ5WTJRa0pTb2YtVloxN3p3ZDNmZkF4bjNORkxJM3ozZlJrRFJSYTJ0cWVORDVmajFmbjA?oc=5) |
+| 2026-11-25 | [**Gibson, Dunn & Crutcher**](firms/gibson-dunn-crutcher.md) | [The Technical Account (Royal Decree 813/2026): A New Route for Depositing Securities with DTC That May Facilitate Dual Listings of Spanish Issuers in the U.S.](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZHlPZ0NFOGZKR1hOTkdYd1BvTGZQWUgtZE1VeURrUDZhaEFobE1qNXloV2NQMjVEejNHVlRxOEtKa3lrRHUxcTI2d0NLNWhMcFlQb2VqQlItQVJWUEZLTkhicTlFNVJubE0xWWlWY3Mzd0VkemR2N0gycElLbkhSWDV3ZWpwSnlvaE5rOHlUQXhqeWVTd0Fqa014R2tzMFd4a0M2NUhMRXp2b1JXVHBjdnRobG9FcnhSUWJlZlZ2azRwa1R3eXd1eEUzbFlSalJlZm1FZTNWUFkxQU9wOHk2QnVfd1dSS3lPQklad3hMLWVJVG1zS0MxaWhLVGoyS2Vh?oc=5) |
+| 2026-11-25 | [**Sidley Austin**](firms/sidley-austin.md) | [Lyuba Goltser joins Sidley’s corporate governance practice](https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0NiMlBYY1NXNXg0enp4NV85QVJsUDhqTmJsRWZydXBBY25KbGRMemtJTGw3MjNTUmUtUFJHdFNKZks4X294TUpEX0NXcDJIVFFmNmJMb2FZTzZ4T0dBRHhfdE4zOXgwNkNtV2Fia1RBTkhwZjU5amZXSDg5eFNsTGtvVDBTcFk?oc=5) |
+| 2026-11-25 | [**White & Case**](firms/white-case.md) | [White & Case advises founding shareholder on Federation Studios’ conciliation agreement](https://news.google.com/rss/articles/CBMitwFBVV95cUxONF8tMXVlX1dtUWhyN0hwendNTV9BN0V0TWN3Zlo1MnpkU2VaZlkzcWhXdm03RG82el96dG5lRHd5NHB3Tk9rY3FxeERrVkxaaTBsUU1iT0J4bzRtcmQzcnpvcEkyUHZxcy1MSkFOT2hIZkFWWDdHZ3lNZkg1OVREeGwxZDlzSHJJWGF1YTdNSXQzb3NrYVhXUTlvNERtc0lMME83dFdYd3NOclRJSWMzbEtlRWtmeHc?oc=5) |
 | 2026-11-25 | [**Ropes & Gray**](firms/ropes-gray.md) | [Ropes & Gray Bets on Longtime Clients as Firms Vie for Big Deals](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUx4UFE5SlJ5dkx6LVVseFAtcUV3a01MSXVsc3EzUjl2UFpUUFVVZHJqeDBfb2l5V3FfU1BsV0ZPRm5xbTBBSl8za0NZYXRfdUY5M05SYWNJSldvUnBIZE5sMEs3UUhqNXBkckxzbGkzOTNBajlmM0V5c01zUjl1S1M0dFNNck5ZWXFpRDJWU3ltUUNaVjJkRENZNzlCc2dtMmszZ0FQSm5DdE1QUmh1OVZzVFk?oc=5) |
 | 2026-11-25 | [**Cooley**](firms/cooley.md) | [Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO](https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWM2N2RVcHZIMzR5VmgzRW11cGpJbTZNWFQ2T3RTOEhmMWlibGlaakFCUFJMZDRIMG90WDVLN1NkVTR0d0hOU2hhdVNDMURRdFc5eC1JYWdtekphVFJSQnlEMDRLN3BweGNnREExWUR4UFdYal9pWElvOURGQmpoYWo4NVBUTFJZeG5tS0ZfZUdzUjhlUWUwR19QVkRRZjV5QlphR3ozeWc5SkVoREpISVFVcWk1M3FnMWZqWS0xZnNvb1Vr0gHEAUFVX3lxTE5JYzY3ZFVwdkgzNHlWaDNFbXVwakltNk1YVDZPdFM4SGYxaWJsaVpqQUJQUkxkNEgwb3RYNUs3U2RVNHR3SE5TaGF1U0MxRFF0Vzl4LUlhZ216SmFUUlJCeUQwNEs3cHB4Y2dEQTFZRHhQV1hqX2lYSW85REZCamhhajg1UFRMUll4bm1LRl9lR3NSOGVRZTBHX1BWRFFmNXlCWmFHejN5ZzlKRWhESkhJUVVxaTUzcWcxZmpZLTFmc29vVWs?oc=5) |
-| 2026-11-25 | [**Clifford Chance**](firms/clifford-chance.md) | [Clifford Chance advises EQT on acquisition of Pickles Auctions](https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHB4ZDVmRXl3OUFCWUxyMTNjUTU2U1VXX24yWkR2VDZpeVpGSmtVTDgwRE50RHVicUFDd3c1V25QMUI2OXFTWkVGdVRaT0tWbXlQTlBzajNpdHQ3YWd1TlM0TnZKcG1rTTJDLWF4VU1MVmFnUlJCLTQtbTlhNFVuSEktaEFpQlE0MkZOT2JMNU4?oc=5) |
-| 2026-11-25 | [**Linklaters**](firms/linklaters.md) | [Linklaters advises Schneider Electric on its US$10bn multi-tranche bond offering](https://news.google.com/rss/articles/CBMipwFBVV95cUxONk1LNWloNkxWZFMteEJUZDJwQVBadEFnQU05RzM5MmNYcmcwbUc2OEZEeG1UeDdBUmkxcDh6bzRaWm55em80ZHMyZHd1RS1yZW9PUEZOV0ljVHVuU182VHlEX3czbDlycl9QeE9GREFfTXJ3S3lJOU9FUW5lWF9iWmpBMjN6czFUVVJOTm9Hd2J2LTFIWVVKNzF3cGVsVFV5MjRabHBJbw?oc=5) |
-| 2026-11-25 | [**Freshfields**](firms/freshfields.md) | [Spain’s new data centre regulation: Royal Decree 1032/2026](https://news.google.com/rss/articles/CBMixgFBVV95cUxPY25kaVNtYXVwNzVfX1RYcmctR2F4Z2VkZ29nQlpSLVFwa2JScWhkaVAzMG85ZlJYbjlpMzZPcmgzRVlGOFEyUEtCQ2l2UjIxbFBZSDBDamVsVExPdldMMjl4NmJ5b0VLNnh2ZG9RWHNtaUxNS1RraW9IVFZ0WjduM3JhdFpJMUI4QUl6OVBObkZ4cWpKYlJEVzloLXY4cC0wU09DVnZrc19pLVFlUHZxbFNGNmhZNTBnVVZ5MXQ3UmM4NHBrcVE?oc=5) |
-| 2026-11-25 | [**A&O Shearman**](firms/a-o-shearman.md) | [Milbank poaches LatAm tax partner from A&O Shearman](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSThxRnNDN0QzX0lnZ29Xd05KYTc1UUVRb2I4RnZ3VENXbVIxN1N0amdISzJKQy1KVFJIY09sNXpaTXVwdjkxRzRrVmhxRVljdjBrbVpFMy00SkdfZEpobGxwLTZaQjlmSm9Pekl5MWgyNll3ek9fVXAtMC1PVGY4OHduOA?oc=5) |
 
 <p align="right"><a href="NEWS.md"><b>Full daily digest →</b></a></p>
 
@@ -82,8 +82,8 @@
 | [**Slaughter and May**](https://www.slaughterandmay.com) | Corporate, competition law | [Open →](firms/slaughter-and-may.md) | 10 |
 | [**Ashurst**](https://www.ashurst.com) | Corporate, infrastructure | [Open →](firms/ashurst.md) | 10 |
 | [**CMS**](https://cms.law) | Commercial, technology law | [Open →](firms/cms.md) | — |
-| [**Simmons & Simmons**](https://www.simmons-simmons.com) | Life sciences, financial services | [Open →](firms/simmons-simmons.md) | 10 |
-| [**Bird & Bird**](https://www.twobirds.com) | IP, technology law | [Open →](firms/bird-bird.md) | 6 |
+| [**Simmons & Simmons**](https://www.simmons-simmons.com) | Life sciences, financial services | [Open →](firms/simmons-simmons.md) | 9 |
+| [**Bird & Bird**](https://www.twobirds.com) | IP, technology law | [Open →](firms/bird-bird.md) | 9 |
 | [**Pinsent Masons**](https://www.pinsentmasons.com) | Technology, infrastructure law | [Open →](firms/pinsent-masons.md) | 10 |
 
 ### 🇮🇳 India · Law Firms
@@ -92,11 +92,11 @@
 |:--|:--|:--|--:|
 | [**Cyril Amarchand Mangaldas**](https://www.cyrilshroff.com) | Corporate, regulatory law | [Open →](firms/cyril-amarchand-mangaldas.md) | 10 |
 | [**Shardul Amarchand Mangaldas & Co.**](https://www.amsshardul.com) | Corporate, disputes | [Open →](firms/shardul-amarchand-mangaldas-co.md) | 10 |
-| [**AZB & Partners**](https://www.azbpartners.com) | M&A, competition, regulatory | [Open →](firms/azb-partners.md) | 9 |
+| [**AZB & Partners**](https://www.azbpartners.com) | M&A, competition, regulatory | [Open →](firms/azb-partners.md) | 10 |
 | [**Khaitan & Co**](https://www.khaitanco.com) | Corporate, commercial law | [Open →](firms/khaitan-co.md) | 10 |
 | [**Trilegal**](https://trilegal.com) | Corporate, technology law | [Open →](firms/trilegal.md) | 10 |
 | [**JSA Advocates & Solicitors**](https://www.jsalaw.com) | Corporate, regulatory law | [Open →](firms/jsa-advocates-solicitors.md) | — |
-| [**Luthra and Luthra Law Offices India**](https://www.luthra.com) | Corporate, dispute resolution | [Open →](firms/luthra-and-luthra-law-offices-india.md) | 3 |
+| [**Luthra and Luthra Law Offices India**](https://www.luthra.com) | Corporate, dispute resolution | [Open →](firms/luthra-and-luthra-law-offices-india.md) | 2 |
 | [**IndusLaw**](https://induslaw.com) | Corporate, venture capital | [Open →](firms/induslaw.md) | 2 |
 | [**Anand and Anand**](https://www.anandandanand.com) | Intellectual property law | [Open →](firms/anand-and-anand.md) | 10 |
 | [**S&R Associates**](https://www.snrlaw.in) | M&A, capital markets | [Open →](firms/s-r-associates.md) | 4 |

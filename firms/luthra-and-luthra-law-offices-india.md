@@ -8,7 +8,7 @@
 
 ## 🔭 Deals, mandates, expansion & strategy (last 30 days)
 
-<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-25.</sub>
+<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-26.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -24,7 +24,6 @@
 |:--|:--|:--|
 | 2026-11-20 | [India’s Medical Device Regime: Faster Approvals, Stronger Post-Market Surveillance](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdGFjaldpZkpXSDhxSjlfMEh2Y1U5T095Zm9IOGxjWHA5dkg4dTdlQ1hrckdMU05TZlZkdkVDWDEzcFAwX0tRLURTdU93N0xpTy1vVkY1dXIwWHpHWnpvWFYyYzR1UUZLazRuSXBqZVJ2ZURsM3JYdC1vYUxSTUJrX2tFVFlCZFFPdnctdDJIb3c5aUV0RTQxQ2w0LXl5dEJTMlNKQlZnUm8xY2ZvcW9jZUEtcThCQVZNM3ZpWEZZNXZvTllQQURMdWV5MV9ESVNCRWFmM01RRHpodnZKUGVUQjk0VFViRTRUVTlrQTZGdHM?oc=5) | Legal 500 |
 | 2026-11-19 | [BW Legal World Unveils Compendium of 325+ Most Influential Women Lawyers in India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDlpSFRSWFh2MlJnNWtjcnhOaDJNSHFtZkpiMklqeFBKQkpscDBMTllIYmwxZ2ZGTmFjR0N5S0FPMmg3YUVjTzNxNlZjdmhLUm81VnNiQXo3WTlLall1bjMtaVZwRlV0S3p3a2RmeERRUDU0OXBoVW1od3pKU3JBRDgzNW9jd2xMWjNudHczTlY1R0NiWEw0aXVhUXpnVU44eWh3dEVCVkxtYURVWkQ4TE5yTUhsdmlZdzlHamM1RDdPUQ?oc=5) | BW Legal World |
-| 2026-11-18 | [Rays of Belief Ltd. IPO Review - Rays of Belief Ltd. IPO Dates, Issue Price, Subscription and Allotment Status](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTBhNDU1c0xRTDZORXVneDkyeExrUEJkOVBXei1ndkhmMDRjZHFrZXQ4RUswbUR5cTJKSW5vQnlxQ3J3MEotQ0FERnk1cFdLUTkyc1dEYlVVY1IxOFlrN0dtTm0zR0xLazVWSkpadU9Gc2JUZEUzbVliQ21SYk5RS25FZHV2ajZGU1E?oc=5) | The Economic Times |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
