@@ -14,7 +14,9 @@
 
 <sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-26.</sub>
 
-_Feed populates on the next daily run._
+| Date | Headline | Source |
+|:--|:--|:--|
+| 2026-11-16 | [Vicente Boluda criticizes the political use of the operation with Marsa Maroc and demands its release](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSnVQNVNlVm51eDEzSHhGTTNjOXM4Tm9xQmJTbzhiSDdlV01VanIwTWxVWW0wdUdXMUZ6SjBPNVBuZWRwSEZUTjFMcUJuaVFuXzUySGtlN1JuR0hwRjhERTJIOHh3Z1B5YTVnZ20wMXA5MVRVdkpZOEVJVEVyVTdxNWI1aldyMVlNSlpVQUFlcTZ1eFV5dkI5TVpSVENQR20zWmRaOHZuc1FmZlR1NUI3akpITE9aS1JudjQzaHZfdTNlc0h2czE0RlNNOHRQeUlDeTlfbtIB2gFBVV95cUxQM3lKUUJHUzMta293N2doYk56d3VzU2wzRnlhaElySlFDTEhSSDgyOFAxbnc1TkhrVnFvVUJjbUNvOWpuU0hjelZiX3QzM09nRjV0dkpVb0tPQlFGUnJYS0wwWWEzOTBmWlVnck9OMS03OFI3TlNUTUxPdzZyTTZzcnlUQ2g2X0VfeV9ham1xc0ttRUg0V28tY0RTUTl4NEhOZXpEUWNqUmdScDJQSkpsTFB3SlVRNlNpeXFoVkttbGNVRkZBNnVBazBEUGpFOXl3ZTRtak1VaC00dw?oc=5) | Demócrata |
 
 ## 📰 Latest news (last 7 days)
 
