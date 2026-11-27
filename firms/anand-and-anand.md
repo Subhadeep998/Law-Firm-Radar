@@ -8,7 +8,7 @@
 
 ## 🔭 Deals, mandates, expansion & strategy (last 30 days)
 
-<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-26.</sub>
+<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-27.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -25,6 +25,7 @@
 
 | Date | Headline | Source |
 |:--|:--|:--|
+| 2026-11-26 | [Limits of GST First Appellate Authority: Binding Precedents, Remand and Additional Evidence](https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2I3Q01fWXlyOW0tMDJEb3pDMThjN2FrR0k1NE1qc2hLQnhjNTdsMlIwbmdfVHFkbVhZemViS01LX1JabzhPRURQcVpwUzNHX0RkSWlhTkl2SHlrZmloUWlkN3hBb0hzdHRZYUZkalljallXenVBdkJQYk9sbDBNZFlLQ3ZfSURHczlGRWtwUW44QUhXU3hLc1l3cjhrZDNfRzBkTG5lQWxQTGhqMnc5dEJZT1hXbWhHSnh3bkFCMA?oc=5) | TaxGuru |
 | 2026-11-25 | [CMS INDUSLAW advises catering firm Focus Prism on investment](https://news.google.com/rss/articles/CBMiYkFVX3lxTE40NzFFaGpTSVVYTFBDV3hZcDV6QnBEczdaUXBtY3dpdFRqY3liNlZvMkFiU1NiRWdWZVRjT2JRbHpVNmdXT0NWUGdfR0dLLWs5RTR3ZkJ6dVdwSGNOcFMzbnl3?oc=5) | Law.asia |
 | 2026-11-25 | [Fox & Mandal advises Asian Games medallist on brand deal](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RcU5MNS03bXdQUElTSjBFbWVZX19nb1F6M3lkX2xsNXgwMU9wa1pJcmZ3d3RBUW5MUldhMFRJdEZGUlZEZEh0M3V5a3FLaEhyRWdVZDZYZFpWQkJBazRv?oc=5) | Law.asia |
 | 2026-11-24 | [Kshama Ravikumar joins Chandhiok to lead Bengaluru office](https://news.google.com/rss/articles/CBMiakFVX3lxTE5GTlVNNDkyR0x6Um91VUhfZS1kdmpENHJuUVFxMjNDLS1lS0w0ekIxVS1WdnNLQ3R1NUJjWFlCRk8xdHAwMTV1OFd2TWZMZkFBMC1idzluUzNsVWxGa2FoUmlPSHpmMGZ6V2c?oc=5) | Law.asia |
@@ -34,7 +35,6 @@
 | 2026-11-20 | [Bhavya Mohan returns to AZB & Partners](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16UWgtb1ZNSGRvaWNjcDl2ejdwYVJTaGNoU3VqVFJLZWMzWGpweFRkYm1zaXZXZ3Q1N0dKbXVKbDZfb25aemVFa01ZdTNRQzlvMC1nRDdDTUtpeHZSV3htSA?oc=5) | Law.asia |
 | 2026-11-20 | [Anupriya Awasthi Appointed Assistant Vice President – HR at FINAGG Technologies Private Limited](https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0QwQlJ1akFOdmZ0ZUtWdW5zQjJ6Y015Y0Q0Q3VLcWlTb1RYWHhOd09LVnp3WERHdkR5MEN4blh6TU5USHNTMDQzWEJ2VjFYSmh6Z2pxeFBEQXVkZmRyUl9xOW52a2E5VUlPWVczLUc1aERzWXVmeDNTelVBSklEcUNKdmt2NkE3UjVWWW5QN1dvdjEtMkkwdWQ1d1hpRkUtOHFQMzdMcEJQMUphRDhSejBQTQ?oc=5) | https://hrtoday.in/ |
 | 2026-11-20 | [Jindal lines up USD1bn for Botswana power plant finance deal](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vd2NmQm8zeExOa2EzbnRFRWU3QTJ4V0pwRmtVWENPdWdhTUxyYlJfSUI1Ylg4NDhBSkt2T1QycTFseFRtanI4azg2aWhJdzh4TXo4eDVDd1VXNUNXaUtv?oc=5) | Law.asia |
-| 2026-11-19 | [Ruchi Diwakar joins JSA as real estate partner](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fbV92LU5zYk5sSXpPd29ZU2Z0d1NxWno1RjRTc2VzdWVKM3hmcDhySDdUSk5Bb2dZU3dNbzRsVzN5N0E2cXZ3Y2NIb1dNdnpyMnZJ?oc=5) | Law.asia |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
