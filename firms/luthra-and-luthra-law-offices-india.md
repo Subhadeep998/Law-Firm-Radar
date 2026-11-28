@@ -8,7 +8,7 @@
 
 ## 🔭 Deals, mandates, expansion & strategy (last 30 days)
 
-<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-27.</sub>
+<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-28.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -23,7 +23,6 @@
 | Date | Headline | Source |
 |:--|:--|:--|
 | 2026-11-23 | [Life Sciences And Healthcare Newsletter \| September 2026](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU21wbFZTcVQ0N2dMd2ZzUmJVcnVXY2FncHFmbUQ0NGJDb1Mzb0w1OXI4ejlEaG1BbXBmUExMQng3QmRjWnhqNmlXR3piSlllV1VOMFdKY0ZtM2c4TER0OEtxTzFFWGJCTUpUcWx6bndxYWlPc1JxM2Zna2QzOFJsZmlfcWV5WGNWVUdvUlBKN2NGb2FkeWVTVlMxaEdCQ1NtVUdGS1hlRFRtNjR2eXc0dUhlLXJobFRPSjZwWDFZOUFla0FxQWctd0N1RGhZdzg?oc=5) | Legal 500 |
-| 2026-11-20 | [India’s Medical Device Regime: Faster Approvals, Stronger Post-Market Surveillance](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdGFjaldpZkpXSDhxSjlfMEh2Y1U5T095Zm9IOGxjWHA5dkg4dTdlQ1hrckdMU05TZlZkdkVDWDEzcFAwX0tRLURTdU93N0xpTy1vVkY1dXIwWHpHWnpvWFYyYzR1UUZLazRuSXBqZVJ2ZURsM3JYdC1vYUxSTUJrX2tFVFlCZFFPdnctdDJIb3c5aUV0RTQxQ2w0LXl5dEJTMlNKQlZnUm8xY2ZvcW9jZUEtcThCQVZNM3ZpWEZZNXZvTllQQURMdWV5MV9ESVNCRWFmM01RRHpodnZKUGVUQjk0VFViRTRUVTlrQTZGdHM?oc=5) | Legal 500 |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>

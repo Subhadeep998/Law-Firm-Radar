@@ -8,7 +8,7 @@
 
 ## 🔭 Deals, mandates, expansion & strategy (last 30 days)
 
-<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-27.</sub>
+<sub>Headlines on deals advised, new offices, lateral hires, mergers, practice launches and strategy. Updated 2026-11-28.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -31,7 +31,6 @@
 | 2026-11-24 | [Kshama Ravikumar joins Chandhiok to lead Bengaluru office](https://news.google.com/rss/articles/CBMiakFVX3lxTE5GTlVNNDkyR0x6Um91VUhfZS1kdmpENHJuUVFxMjNDLS1lS0w0ekIxVS1WdnNLQ3R1NUJjWFlCRk8xdHAwMTV1OFd2TWZMZkFBMC1idzluUzNsVWxGa2FoUmlPSHpmMGZ6V2c?oc=5) | Law.asia |
 | 2026-11-24 | [Mumbai court denies bail plea in forex fraud case](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TNHJ2T1pTVFUwNGRKaWctYjQ5WE5EeXhueEl2ZFQ2Wl90OVBwYWtuY2l4RUprcUxpdFBVWUV3WEVBa2JrY3lzLXhBY19XMGliRm54M0YtMWxvcEoxbl9neGF4Z28tQQ?oc=5) | Law.asia |
 | 2026-11-24 | [Cryptic Appellate Orders Cannot Stand: GSTAT Kolkata Enforces Reasoned Decisions Under Section 107(12)](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWDd0TDJmWll1THlVM3lDTV9CVWtMcXVKZXRmSVFJOHZVZHJaTS1BZWFKQjhobFprb250d1BydFpTb05CX3ZCVzlWaHBkZXpQVW9DLU9RRDZ1Q0hFbzBhY0FXV1RrQXQtcnVXZkFuRGtZNVRLcW9fbG1oaVhTdTdZbUpuOHhFekFIcExaaDlIU3NfNW1wWklhdTlvV2tpcmQyNkc0T1paeEFhc1BWZGNpVHRNSVFpUGNMcndKMlVrU0h2ZFN5blRYZGJNNHVqNlF0aUVCRFgzUnZXQUpSWkVxSGZB?oc=5) | CAclubindia |
-| 2026-11-23 | [GST ITC Cannot Be Mechanically Denied Solely for Supplier’s Tax Default: Allahabad HC](https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXRPeTFBek02TDgyckVrSndTUXVseFl3R3VobXZUZUd1YUlwdjRKTWNnLS1SeVNBWUI2am1rV1ZWVHZLYlhTblZ0ZUc2Rm1vamlucHBfaU1yZmZ5U0t1RTBhclB1WVpBbTZ5T1Q3VFRTUnUtdkEyTVFvb2o1M25QV0FPLUg1VUx1Y3BLX0pDMl9xbzIzVEQ3V1hESVhkUTFlLWRGZjJqaDhTRWtONm5Vd1pwU09jY1VGUmNxQkVzQQ?oc=5) | TaxGuru |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
