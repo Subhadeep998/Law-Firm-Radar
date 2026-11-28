@@ -16,13 +16,10 @@
 | 2026-11-17 | [Dentons Link Legal, Luthra act on Iris Global ₹200 crore+ proposed IPO](https://news.google.com/rss/articles/CBMitwFBVV95cUxPa05KMDllNDNhaFkybjV4VF96cFRXY1pGZzE1REpJbGpUNGdzaE5FR2IzT2sxWm9QektqNmNwUkxmU3pGSU5fTkxKWGRLc0pwR0JhVWZTc0dKVF9LWVRUYk45VDc0ZTh5VmEzRUNzMUN6bkg0Z01WNE9CeGdfV2RpQWUwRlBnRlA1WHIwN0ZIWUZYUjVRX2NLMkV5WHYtQ2xya0g0dkRreVVCemF5Yy1vb2pFb0Q3RVHSAcQBQVVfeXFMUFBYdnNKZ2JzNlpFZWRyUEl1bk9RTTZqZzNuZF84YlZnR21fQkFXNXhtbU94VWxEdzJPYkVlVzBJTGx1MHpxemQwR01kdklFMi1BRFRKdGVnanlhUVVBTU1PTHRYQVJOMm5TWXJTVXNKNXFsQk8yTWx2X0hPQkRPbmN5eEtFbXg2X0RYSFlpb2U1Nk5Cc0oxR1BLMGZpajhNMnExUjVIT09Vay1zS3ZtemctcWc3SmxJcDktTU1qZ3lZRXNfRw?oc=5) | Bar and Bench |
 | 2026-11-16 | [India’s 10% User Threshold: Is It Effective for Data-Driven M&A?](https://news.google.com/rss/articles/CBMivAFBVV95cUxONG13WlZtLUEyLXlYYXJGeEY1X2tMQ3JqX3M0cnJfcUlhZExpc2pHQ1JTRHl6Z0xuQkVNb3ZiQzNwb0tyRjliNkc1djFXNzNjbGhobWo5UHdkZ2djOEJ3alVKSDdHcXg5QW5xSG5saFl1Y3RoS2tjZ0g3WGEyS0dMN3ZaQWI5NzVZdmd2UDlkV1Z4MXBWVV9na0NldWlzdmN0OHNvUTBZMnY0blNBSURLWXdjYVVISjRLMEtGaQ?oc=5) | TaxGuru |
 | 2026-11-10 | [CHRIST University announces 7th CHRIST Mediation-Arbitration Competition, 2027, in collaboration with SIAC; Registrations Open until 15 November](https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzNJQm1iSWVjS1dTVnVMX2tIYlZIQXg0X0lna3ZYQ1dnUVEtU29fNkJmR1RpNFdoZy1NMWY0ZlFocUxJalh0bDh4ZEZlUXg4MDBLemN4emZoWlFab0ozUjljOTBNakJsc0dieV9QSmRsVklXTXltYXQ3bEx3N0hkd2p3cGxudWdXYnplc095UUtVQ29Bc05JdA?oc=5) | SCC Online |
-| 2026-10-29 | [Luthra advises on Maple Infrastructure Trust’s USD 73m NCD](https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNTBvYjlIUEdZMDFQelFLQU1WRUZhYllkOGs0Mmx5Q0hRZXVvWHlzSFhwUHp0UUZzd0xVblQxNVlRNzZRdmxVUlFqcUdnd25UYTVpSWVWRXNHbXVGQ0lZcDhMMzZUQnpKS2c?oc=5) | Law.asia |
 
 ## 📰 Latest news (last 7 days)
 
-| Date | Headline | Source |
-|:--|:--|:--|
-| 2026-11-23 | [Life Sciences And Healthcare Newsletter \| September 2026](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU21wbFZTcVQ0N2dMd2ZzUmJVcnVXY2FncHFmbUQ0NGJDb1Mzb0w1OXI4ejlEaG1BbXBmUExMQng3QmRjWnhqNmlXR3piSlllV1VOMFdKY0ZtM2c4TER0OEtxTzFFWGJCTUpUcWx6bndxYWlPc1JxM2Zna2QzOFJsZmlfcWV5WGNWVUdvUlBKN2NGb2FkeWVTVlMxaEdCQ1NtVUdGS1hlRFRtNjR2eXc0dUhlLXJobFRPSjZwWDFZOUFla0FxQWctd0N1RGhZdzg?oc=5) | Legal 500 |
+_No major coverage this week — or the feed populates on the next daily run._
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
